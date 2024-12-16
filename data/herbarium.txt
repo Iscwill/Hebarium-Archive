@@ -1,0 +1,5 @@
+ScientificName:Ficus elastica|CommonName:Rubber Plant|Family:Moraceae|Genus:Ficus|Species:elastica|PlantPhoto:con1.png|HerbariumPhoto:cont1.1.png|con1.pdf
+ScientificName:Monstera deliciosa|CommonName:Swiss Cheese Plant|Family:Araceae|Genus:Monstera|Species:deliciosa|PlantPhoto:con2.png|HerbariumPhoto:con2.1.png|con2.pdf
+ScientificName:Aloe vera|CommonName:Aloe Vera|Family:Asphodelaceae|Genus:Aloe|Species:vera|PlantPhoto:con3.png|HerbariumPhoto:con3.1.png|con3.pdf
+ScientificName:Eucalyptus globulus|CommonName:Blue Gum|Family:Myrtaceae|Genus:Eucalyptus|Species:globulus|PlantPhoto:con4.png|HerbariumPhoto:con4.1.png|con4.pdf
+ScientificName:Mentha spicata|CommonName:Spearmint|Family:Lamiaceae|Genus:Mentha|Species:spicata|PlantPhoto:con5.png|HerbariumPhoto:con5.1.png|con5.pdf
